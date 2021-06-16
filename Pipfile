@@ -8,10 +8,11 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 numpy = "*"
-scipy = "*"
-seaborn = "*"
+pandas = "*"
 matplotlib = "*"
+scipy = "*"
 statsmodels = "*"
+seaborn = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
